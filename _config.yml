@@ -123,7 +123,7 @@ footerdes: "Disclaimer: This is not official Philips website and not related to 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-119559306-1"
+google_analytics: "UA-107484698-2"
 
 # Google Tag Manager ID
 #gtm: ""
