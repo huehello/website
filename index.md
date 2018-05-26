@@ -12,13 +12,13 @@ imgcss="md-card_image_checkout_blogs"
  %}
 
  {% include material_card.html title="Downlod App" description="Unlock potential of smart lights with our carefully designed app. It has plenty of features to make your life easy and full of ..."
- url="/blogs"
+ url="/apps/huehello/"
 imgcss="md-card_image_download_app"
 cta="Try App"
  %}
 
  {% include material_card.html title="Buy More Smart things" description="Lets make your home smarter with latest smart devices and IOT products. Here we ..."
- url="/blogs"
+ url="/buy"
 imgcss="md-card_image_buy_lights"
  %}
 
