@@ -11,7 +11,7 @@ bigimg: img/homepage_light.jpeg
 imgcss="md-card_image_checkout_blogs"
  %}
 
- {% include material_card.html title="Downlod App" description="Unlock potential of smart lights with our carefully designed app. It has plenty of features to make your life easy and full of ..."
+ {% include material_card.html title="Download App" description="Unlock potential of smart lights with our carefully designed app. It has plenty of features to make your life easy and full of ..."
  url="/apps/huehello/"
 imgcss="md-card_image_download_app"
 cta="Try App"
