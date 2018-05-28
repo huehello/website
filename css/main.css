@@ -985,11 +985,19 @@ input.md-input:focus ~ .md-highlight {
 }
  
 .md-cards {
-  display: grid;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+.md-cards {
+    grid-template-columns: repeat(2, 1fr);
+}
 }
 
 .md-cards__item {
@@ -1059,4 +1067,11 @@ input.md-input:focus ~ .md-highlight {
 .md-card_image_buy_lights {
   background-image: url(/img/buy_more_lights.jpeg);
 }
+
+.md-single-row-card {
+  margin-top: 20px;
+  padding: 0;
+}
+/*md card over here*/
+
 
