@@ -42,6 +42,10 @@ layout: base
         {% include footer_download_app.html %}
         {% endif %}
 
+      {% if page.amazon_buy_card %}
+        {% include amazon_buy_card_usa.html %}
+        <br/>
+      {% endif %}
       </article>
 
       {% if page.tags.size > 0 %}
