@@ -5,7 +5,7 @@ use-site-title: true
 bigimg: img/homepage_light.jpeg
 ---
 
-<ul class="md-cards">
+<ul class="grid-two">
 {% include material_card.html title="Checkout Blogs " description="Smart lights have huge potential and we are trying our best to make it easy for you with our blogs. We share ..."
  url="/blogs"
 imgcss="md-card_image_checkout_blogs"
