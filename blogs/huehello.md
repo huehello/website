@@ -1,6 +1,6 @@
 ---
 layout: category
 title: HueHello Blogs
-subtitle: Make Smart Lights Smarter
+subtitle: Get more from your philips hue lights
 category: "huehello"
 ---

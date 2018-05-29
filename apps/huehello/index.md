@@ -1,11 +1,10 @@
 ---
 layout: page
-bigimg: /img/huehello/play_store_graphic_g_plus.png
+title: HueHello
+subtitle: Get more from your philips hue lights
+bigimg: /img/huehello/huehello_app_big_img.webp
 download_app: true
 ---
-{: .box-plain .text-center}
-# HueHello
-
 This app is designed with care and features are added as per user requests. More than 98% of our users are satisfied.
 Quick summary of features: Friendly user interface, Widgets, Quick tiles, App shortcuts,
 Custom Scenes, Preset Scenes, Light Alarm, Routines and more to come
