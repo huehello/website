@@ -123,7 +123,7 @@ footerdes: ""
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-107484698-2"
+google_analytics: "UA-107484698-1"
 
 # Google Tag Manager ID
 #gtm: ""
