@@ -33,7 +33,9 @@ navbar-links:
   Blog:
     - HueHello: "blogs/huehello"
     - Smart Home: "blogs/iot"
-  App: "apps/huehello"
+  App:
+    - HueHello: "apps/huehello"
+    - ConfigHueHello: "apps/confighuehello"
   # Buy:
   #   - USA: "buy/usa"
   #   - Germany: "buy/germany"
