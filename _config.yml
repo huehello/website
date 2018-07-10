@@ -30,6 +30,7 @@ description: Best apps for Philips Hue and all about Hue lights. IOT products an
 
 # List of links in the navigation bar
 navbar-links:
+  Explore: "buy"
   Blog:
     - HueHello: "blogs/huehello"
     - Smart Home: "blogs/iot"
