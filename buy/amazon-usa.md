@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lets make smart home smarter
+subtitle: Amazon USA
 ---
 
 {: .box-plain .text-center}
