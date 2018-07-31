@@ -21,7 +21,7 @@ It is a plugin for HueHello. You must have HueHello installed to make it work an
 - Ads free ( No ads for a good user experience)
 
 <br/>
-{% include youtube.html url="https://www.youtube.com/embed/7VSiyIO8TFk" %}
+{% include youtube.html url="https://www.youtube.com/watch?v=_mqaf6_olAk" %}
 
 
 Requirements
