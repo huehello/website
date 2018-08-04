@@ -38,6 +38,7 @@ navbar-links:
     - HueHello: "apps/huehello"
     - ConfigHueHello: "apps/confighuehello"
     - GalleryHueHello: "apps/galleryhuehello"
+    - MeditateHueHello: "apps/meditatehuehello"
   # Buy:
   #   - USA: "buy/usa"
   #   - Germany: "buy/germany"
