@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 
-Team HueHello built the Halloween HueHello app as a Commercial app. This SERVICE is provided by Team HueHello and is intended for use as is.
+Team HueHello built the Helloween HueHello app as a Commercial app. This SERVICE is provided by Team HueHello and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -55,11 +55,11 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 Attribution
 
-HueHello uses free icons from flaticon.com[flaticon.com] and free to use audio files from soundbible.com[http://soundbible.com/] under public license OR attrubution license; If you think there is any graphics/audio used which is inappropriate OR violating any license, please write us at huehello365@gmail.com and we will consider your complaint and comply. 
+HueHello uses free icons from [flaticon.com](flaticon.com) and free to use audio files from [soundbible.com](http://soundbible.com/) under public license OR attrubution license; If you think there is any graphics/audio used which is inappropriate OR violating any license, please write us at huehello365@gmail.com and we will consider your complaint and comply. 
 
 Audio files are from these pages:
-Page 1 [http://soundbible.com/suggest.php?q=scary&x=0&y=0]
-Page 2 [http://soundbible.com/suggest.php?q=halloween&x=0&y=0]
+[Page 1](http://soundbible.com/suggest.php?q=scary&x=0&y=0)
+[Page 2](http://soundbible.com/suggest.php?q=halloween&x=0&y=0)
 
 Changes to This Privacy Policy
 
