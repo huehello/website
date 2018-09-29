@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 
-Team HueHello built the Helloween HueHello app as a Commercial app. This SERVICE is provided by Team HueHello and is intended for use as is.
+Team HueHello built the Halloween HueHello app as a Commercial app. This SERVICE is provided by Team HueHello and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
