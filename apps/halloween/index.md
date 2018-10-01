@@ -16,6 +16,9 @@ It is a plugin for HueHello. You must have HueHello installed to make it work an
 - Enjoy your halloween even better
 - Ads free ( No ads for a good user experience)
 
+<br/>
+{% include youtube.html url="https://www.youtube.com/embed/gOmKKd9XeqA" %}
+
 
 We recommend contacting us for any concern or feedback. Our email is huehello365@gmail.com
 
