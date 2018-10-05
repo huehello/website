@@ -36,10 +36,10 @@ navbar-links:
     - Smart Home: "blogs/iot"
   App:
     - HueHello: "apps/huehello"
-    - HalloweenHueHello: "apps/halloween"
-    - ConfigHueHello: "apps/confighuehello"
-    - GalleryHueHello: "apps/galleryhuehello"
-    - MeditateHueHello: "apps/meditatehuehello"
+    - Halloween: "apps/halloween"
+    - Config: "apps/confighuehello"
+    - Gallery: "apps/galleryhuehello"
+    - Meditate: "apps/meditatehuehello"
   # Buy:
   #   - USA: "buy/usa"
   #   - Germany: "buy/germany"
