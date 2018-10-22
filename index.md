@@ -18,9 +18,15 @@ cta="Try App"
  %}
 </ul>
 
-<ul class="md-single-row-card">
+<ul class="grid-two">
  {% include material_card.html title="Buy More Smart things" description="Lets make your home smarter with latest smart devices and IOT products. Here we ..."
  url="/buy"
 imgcss="md-card_image_buy_lights"
  %}
+
+ {% include material_card.html title="Hue Deal Tracker" description="Get discounts on Hue products and smart home products. Never miss a deal and save money. For limited ..."
+ url="http://bit.ly/2P8IStJ"
+imgcss="md-card_image_deal_tracker"
+ %}
 </ul>
+

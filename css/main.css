@@ -1110,6 +1110,10 @@ input.md-input:focus ~ .md-highlight {
 .md-card_amazon_canada {
  background-image: url(/img/amazon_canada.jpg); 
 }
+
+.md-card_image_deal_tracker {
+ background-image: url(/img/deal_tracker.jpeg);  
+}
 /*Images with css ends here */
 
 
