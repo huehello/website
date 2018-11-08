@@ -8,7 +8,10 @@ subtitle: Here you will find information about last Android releases
 *We at HueHello are constantly releasing app with improvements. We believe to work fast and get feedback from users. With every release, we aim to add value in your life. Thank you all for showing us your support and loving the app.*
 
 {: .box-plain}
- **Current Release**<br/> - Connection Improvements<br/> - Out of Home support fixes<br/> - Family Sharing
+ **Current Release**<br/> - Auto Connection when you come back home <br/> - Out of Home support fixes<br/> - Family Sharing
+
+{: .box-plain}
+ **1 Nov, 2018**<br/> - Motion Sensor support for multi groups and multi actions<br/> - Connection Improvements
 
 {: .box-plain}
  **21 Oct, 2018**<br/> - Dimmer switch multi group support with multi actions
