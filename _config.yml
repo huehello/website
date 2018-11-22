@@ -36,6 +36,7 @@ navbar-links:
     - Smart Home: "blogs/iot"
   App:
     - HueHello: "apps/huehello"
+    - Tasker: "apps/tasker"
     - Scary: "apps/halloween"
     - Config: "apps/confighuehello"
     - Gallery: "apps/galleryhuehello"
