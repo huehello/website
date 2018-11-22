@@ -9,12 +9,22 @@ bigimg: /img/homepage_light.jpeg
 
 HueHello helps you to automate your life with Philips hue smart lights. Ever wondered how to make best use of your Hue lights? Ever wanted to use lights more than on/off? 
 
+- Yes, you can integrate your lights with your door bell
+- Yes, you can setup lights to react when toast is ready
+- Yes, you can blink lights when your baby wakes up
+- Yes, you can turn on lights when an emergency message comes
+- Yes, you can turn off lights as soon you plug your phone to charge
+- Yes, there are unlimited possibilities with our broadcast mechanism
+
+![Tasker Automation](/img/tasker/mobile_ss.webp)
+
+
 With our [Tasker Plugin](/apps/tasker), you can configure events and let the lights react. Important meeting reminder? Light will turn green. Important call? Light will blink when phone rings. Forgot to put phone on charge? Light will turn red to remind. There are just unlimited possibilities. 
 
 Our Tasker plugin works with Android Broadcast mechanism. The process is very simple.
 
 {: .box-plain }
-<br>1. First step is to create light action (You can pick a group and save the action)<br><br>2. You will get action id from first step. Send a broadcast with action id to trigger action.<br><br>*Easy-Peasy*
+<br>1. First step is to create light action. What do you want when then event occurs. Blink light? Turn Off Living Room? Turn Off complete home?  Start Animated scene? (Saving the action is very easy. It is same as creating a shortcut in HueHello.)<br><br>2. You will get action id from first step. Send a broadcast with action id to trigger action.<br><br>*Easy-Peasy*
 
 <br>
 
