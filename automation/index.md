@@ -16,6 +16,7 @@ HueHello helps you to automate your life with Philips hue smart lights. Ever won
 - Yes, you can turn off lights as soon you plug your phone to charge
 - Yes, there are unlimited possibilities with our broadcast mechanism
 
+{: .text-center}
 ![Tasker Automation](/img/tasker/mobile_ss.webp)
 
 
