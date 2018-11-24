@@ -19,7 +19,7 @@ Highlights:
 - Smart Notification
 - Ad-free, experience matters
 
-Scenes
+### Scenes
 This hue app comes with few preset of scenes to enrich your lights experience like a Hue pro. Yes, you can create custom scene.
 - Create Custom scenes and let your creativity fly
 - 24 scenes for your lovely home
@@ -29,14 +29,24 @@ This hue app comes with few preset of scenes to enrich your lights experience li
 - Set the same scene in multiple groups
 - Living Scene / Animated Scene : Unlimited possibilities in your rooms with scene effects
 
-One tap features - Save Time :
+### One tap features - Save Time :
 - Quick tiles for Android 7 and above, Control lights without opening up app
 - Create Shortcut inside app and use your app like hue remote control
 - 12 Hue Widgets for hue lights, No need to open app
 
-Schedule and Routine
+### Schedule and Routine
 - Automate your life with lights
 - Set alarm or timer and let your lights remind you, example: Cooking, Wake up, Seeping, Shower
+
+### Plugin Support
+HueHello is not just an app, it is a platform for Philips Hue lights. We support following plugins as of now:
+
+- Tasker (Automate your life with lights)
+- Config (Know inside of philips bridge)
+- Scary (Scary sound with light)
+- Gallery (Immersive experience of watching your photos with lights)
+- Meditate (Let light help you calm down)
+
 
 Requirements
 • Philips Hue bridge
