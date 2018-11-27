@@ -7,8 +7,10 @@ download_app: false
 Do you like your smart lights? If yes, you will love Tasker HueHello. With this app, you can automate smart lights. You can configure lights to react when an event happens like wifi, SMS, WhatsApp, battery and many more. Here are a few events we support:
 
 - Wifi Connection (Welcome Home)
+- NFC (Tap and react)
 - Call: Configure different reaction from different callers at a different time
 - Shake your phone to turn lights on and off, it is fun :)
+- SMS: for important messages
 - Never miss important notifications, configure lights to react with notification text
 - Let the lights remind when the phone battery is running low OR automatic turn off lights when you put the phone on charge
 
