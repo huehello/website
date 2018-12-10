@@ -7,8 +7,19 @@ subtitle: Here you will find information about last Android releases
 {: .box-plain}
 *We at HueHello are constantly releasing app with improvements. We believe to work fast and get feedback from users. With every release, we aim to add value in your life. Thank you all for showing us your support and loving the app.*
 
+
 {: .box-plain}
- **Current Release**<br/> - Auto Connection when you come back home <br/> - Out of Home support fixes<br/> - Family Sharing
+ **Current Release**<br/> - Refreshing New UI improvements<br/>- Xmas Animated Scene<br/>- Automation and Tasker Support
+
+{: .box-plain}
+ **29 Nov, 2018**<br/> - New Widget 1*1 and Group Remote
+
+{: .box-plain}
+ **24 Nov, 2018**<br/> - Auto Connection when you come back home <br/> - Out of 
+ Home support fixes<br/> - Family Sharing
+
+{: .box-plain}
+ **13 Nov, 2018**<br/> - UI improvements<br/> - Animated Scene fixes<br/>- Translation
 
 {: .box-plain}
  **1 Nov, 2018**<br/> - Motion Sensor support for multi groups and multi actions<br/> - Connection Improvements
