@@ -8,6 +8,9 @@ subtitle: Here you will find information about last Android releases
 *We at HueHello are constantly releasing app with improvements. We believe to work fast and get feedback from users. With every release, we aim to add value in your life. Thank you all for showing us your support and loving the app.*
 
 {: .box-plain}
+ **Release 37**<br/> - Android Q brightness crash fix
+
+{: .box-plain}
  **Release 36**<br/> - Custom Moods
 
 {: .box-plain}
