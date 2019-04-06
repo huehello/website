@@ -34,4 +34,4 @@ Custom Scenes, Preset Scenes, Music sync, Animated scenes, Light Alarm, Routines
  **Can I share Pro state with my Family?**<br/> We encourage you to become pro and support development of this awesome app. But if you want to share the pro state with your family member, pro members can fill a form from inside the app and request a FREE code for family.
 
  {: .box-plain}
- **Some error occured while programming accessory?**<br/> Sometimes when you program an Hue accessory, you might face some error. It can happen because of various reasons. No space in the Bridge is one primary reason. kindly try official app and contact us.
+ **Some error occured while programming accessory?**<br/> Sometimes when you program an Hue accessory, you might face some error. It can happen because of various reasons. No space in the Bridge is one primary reason.<br/> You can share the error with us by going to Settings -> HueHello Settings ->  Feedback ->Error and we will try to solve.
