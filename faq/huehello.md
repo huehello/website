@@ -23,3 +23,9 @@ Custom Scenes, Preset Scenes, Music sync, Animated scenes, Light Alarm, Routines
  {: .box-plain}
  **Widget does not reconnect when I come home**<br/> - Please ensure location permission is provided to the app. If it is already provided, disable it and open HueHello. Goto Smart Notification -> click on Location permission and allow permission. It should work.
 
+
+{: .box-plain}
+ **Can I use my Pro app in multiple devices?**<br/> Google takes care of the Payment when you become pro. Your pro is associated with the google account of your phone. If you want to use Pro in multiple devices, please ensure you have same Google primary account in all the devices.
+
+ {: .box-plain}
+ **Some error occured while programming accessory?**<br/> Sometimes when you program an Hue accessory, you might face some error. It can happen because of various reasons. No space in the Bridge is one primary reason. kindly try official app and contact us.
