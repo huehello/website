@@ -15,6 +15,9 @@ Custom Scenes, Preset Scenes, Music sync, Animated scenes, Light Alarm, Routines
  **Widget does not reconnect when I come home**<br/> - Please ensure location permission is provided to the app. If it is already provided, disable it and open HueHello. Goto Smart Notification -> click on Location permission and allow permission. It should work.
 
 {: .box-plain}
+ **Animated scene stops after sometime**<br/> It can happen when Android kills our app when running in background. Kindly remove the app from Battery optimisation and try.
+
+{: .box-plain}
  **Is it free or paid?**<br/> - A lot of features are free, and few features come up with trial. Please understand App development costs money.
 
  {: .box-plain}
