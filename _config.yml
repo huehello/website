@@ -36,11 +36,11 @@ navbar-links:
     - Smart Home: "blogs/iot"
   App:
     - HueHello: "apps/huehello"
-    - Tasker: "apps/tasker"
-    - Scary: "apps/halloween"
-    - Config: "apps/confighuehello"
-    - Gallery: "apps/galleryhuehello"
-    - Meditate: "apps/meditatehuehello"
+  #  - Tasker: "apps/tasker"
+  #  - Scary: "apps/halloween"
+  #  - Config: "apps/confighuehello"
+  #  - Gallery: "apps/galleryhuehello"
+  #  - Meditate: "apps/meditatehuehello"
   # Buy:
   #   - USA: "buy/usa"
   #   - Germany: "buy/germany"
