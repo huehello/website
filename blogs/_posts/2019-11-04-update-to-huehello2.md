@@ -13,4 +13,6 @@ Note: If the page does not open HueHello in the play store, kindly goto play sto
 
 If you can not find HueHello in the play store, kindly open huehello.com in your browser and you will find a link there.
 
+We are running a **special discount offer** this festive season. Download now!
+
 Thanks in advance.
